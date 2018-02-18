@@ -1,8 +1,0 @@
-div {
-    padding: 20px;
-    border: 1px solid red;
-  }
-  .nav {
-    display flex;
-    flex direction:column
-  }
