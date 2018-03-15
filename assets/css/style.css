@@ -5,7 +5,7 @@ body {
     background: url('../image/concreate_seamless.png'):
     font-size: 18px;
     line-height: 34px;
-    font-family: 'Aerial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-family: 'Aerial', 'Helvetica Neue', 'Helvetica', 'sans-serif';
     color: #777
 }
 .container {
